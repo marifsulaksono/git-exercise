@@ -1,2 +1,2 @@
 ini ada di development dan apakah ini akan conflict
-kalau conflict kita lakukan resolve conflict dan mau cobain biar conflict
+kalau conflict kita lakukan resolve conflict dan mau cobain biar conflict tapi ini pake rebase dan ini di development
